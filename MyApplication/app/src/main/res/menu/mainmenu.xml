@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item android:title="@string/strStart"
+            android:id="@+id/menuItemStart"
+            android:icon="@android:drawable/ic_media_play" />
+    </group>
+    <group>
+        <item android:title="@string/strStop"
+            android:id="@+id/menuItemStop"
+            android:icon="@android:drawable/btn_dialog" />
+    </group>
+    <item android:title="@string/strSettings"
+        android:id="@+id/menuItemSettings" />
+
+    <group>
+        <item android:title="@string/strAutomatic"
+            android:id="@+id/menuSwitchToAutomatic"
+            android:icon="@android:drawable/ic_media_play" />
+    </group>
+    <group>
+        <item android:title="@string/strManual"
+            android:id="@+id/menuSwitchToManual"
+            android:icon="@android:drawable/btn_dialog" />
+    </group>
+    <group>
+        <item android:title="@string/strOnline"
+            android:id="@+id/menuSwitchToOnline"
+            android:icon="@android:drawable/ic_media_play" />
+    </group>
+    <group>
+        <item android:title="@string/strOffline"
+            android:id="@+id/menuSwitchToOffline"
+            android:icon="@android:drawable/btn_dialog" />
+    </group>
+
+
+    <item android:title="@string/strexit"
+        android:id="@+id/menuItemExit" />
+</menu>

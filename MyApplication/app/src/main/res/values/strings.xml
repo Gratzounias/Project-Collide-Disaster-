@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="strexit">Exit</string>
+    <string name="strSettings">Settings</string>
+    <string name="strStart">Start</string>
+    <string name="strStop">Stop</string>
+    <string name="strAutomatic">Switch to automatic mode</string>
+    <string name="strManual">Switch to manual mode</string>
+    <string name="strOnline">Switch to online</string>
+    <string name="strOffline">Switch to offline</string>
+</resources>
